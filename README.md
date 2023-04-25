@@ -12,9 +12,9 @@ paste the below code into the url of a bookmark, then click it!
 
 [working on link][1]
 
-[1]: javascript:fetch("https://raw.githubusercontent.com/username-pass/bookmarklets/main/all-bookmarklets.js").then(function(response){response.text().then(function(text){eval(text);});});
+[1]: javascript:fetch("https://raw.githubusercontent.com/gamelff/bookmarklet/main/all-bookmarklets.js").then(function(response){response.text().then(function(text){eval(text);});});
 ```
-javascript: fetch("https://raw.githubusercontent.com/username-pass/bookmarklets/main/all-depbookmarklets.js").then(function(response){response.text().then(function(text) {eval(text);});});
+javascript: fetch("https://raw.githubusercontent.com/gamelff/bookmarklet/main/all-depbookmarklets.js").then(function(response){response.text().then(function(text) {eval(text);});});
 ```
 
 
