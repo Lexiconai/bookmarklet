@@ -2,7 +2,7 @@
     var count = 0;
     var list = "";
     var toget = "";
-    var url = "https://raw.githubusercontent.com/username-pass/bookmarklets/main/";
+    var url = "https://raw.githubusercontent.com/gamelff/bookmarklet/main/";
     const autocomplete = document.getElementById("autocomplete");
     const resultsHTML = document.getElementById("results");
     const iframe = document.getElementById("frame");
