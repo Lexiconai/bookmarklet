@@ -1,8 +1,2 @@
-Not really active
-PR if you want
-another feature
-added
-<br>
-I am now a dev at
-<a>https://inject0r.repl.co</a>
-More stuff there
+Hello this was origanily made by <a herf="https://github.com/username-pass">Username-Pass</a>
+but now i have forked it and made it my own. If you want the OG you can go find it yourself, and thanks for using this!
