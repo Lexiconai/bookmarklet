@@ -28,3 +28,4 @@
  Inject0r
  history-filler
  blocket-filler
+ rainbow
